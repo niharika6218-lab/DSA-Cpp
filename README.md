@@ -17,4 +17,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0007-reverse-integer/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
