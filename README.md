@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0007-reverse-integer/) | Medium |
+| [0013-roman-to-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0234-palindrome-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
