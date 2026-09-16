@@ -17,6 +17,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0258-add-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@
 | [0009-palindrome-number](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0258-add-digits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
