@@ -26,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0258-add-digits/) | Easy |
+| [2235-add-two-integers](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/2235-add-two-integers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
