@@ -36,6 +36,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -59,6 +60,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0389-find-the-difference](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
