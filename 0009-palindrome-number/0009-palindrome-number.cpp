@@ -2,10 +2,10 @@ class Solution {
 public:
     bool isPalindrome(int x) {
         string n= to_string(x);
-        int length=0;
-        while(n[length]!='\0'){
+        int length=n.size();
+       /* while(n[length]!='\0'){
             length++;
-        }
+        }*/
         int first=0;
         int last=length-1;
         while(first<last){
