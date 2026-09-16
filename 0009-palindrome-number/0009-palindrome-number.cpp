@@ -6,12 +6,11 @@ public:
         int first=0;
         int last=length-1;
         while(first<last){
-            swap(n[first++],n[last--]);
-            /*char temp=n[first];
+            char temp=n[first];
             n[first]=n[last];
             n[last]=temp;
             first++;
-            last--;*/
+            last--;
         }
         if(to_string(x)==n){
             return true;
