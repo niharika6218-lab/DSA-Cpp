@@ -47,6 +47,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0125-valid-palindrome/) | Easy |
 | [0389-find-the-difference](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0389-find-the-difference/) | Easy |
@@ -84,4 +86,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0258-add-digits/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
