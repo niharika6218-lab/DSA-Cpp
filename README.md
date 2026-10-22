@@ -25,6 +25,7 @@
 | [0009-palindrome-number](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0258-add-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/2235-add-two-integers/) | Easy |
 ## Linked List
@@ -90,4 +91,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0020-valid-parentheses/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
