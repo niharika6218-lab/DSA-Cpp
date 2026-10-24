@@ -14,13 +14,17 @@ public:
     int minDepth(TreeNode* root) {
        if (!root) return 0;
         
-        // If there is no left child, we must check the right subtree
+        // If left child is missing, we must go right
         if (!root->left) return minDepth(root->right) + 1;
         
-        // If there is no right child, we must check the left subtree
+        // If right child is missing, we must go left
         if (!root->right) return minDepth(root->left) + 1;
         
-        // If both children exist, take the minimum of both paths
-        return min(minDepth(root->left), minDepth(root->right)) + 1;
+        // Custom min calculation without using std::min
+        int leftDepth = minDepth(root->left);
+        int rightDepth = minDepth(root->right);
+        
+        return (leftDepth < rightDepth ? leftDepth : rightDepth) + 1;
     }
+
 };
