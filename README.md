@@ -104,6 +104,7 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,8 +118,10 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
