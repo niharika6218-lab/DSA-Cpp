@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0054-spiral-matrix](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0054-spiral-matrix/) | Medium |
 | [0217-contains-duplicate](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@
 | [0013-roman-to-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## String
@@ -148,4 +150,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
