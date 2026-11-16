@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0041-first-missing-positive](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0054-spiral-matrix](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0054-spiral-matrix/) | Medium |
@@ -56,6 +57,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0389-find-the-difference](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0389-find-the-difference/) | Easy |
