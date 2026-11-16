@@ -64,6 +64,7 @@
 | [0041-first-missing-positive](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## String
@@ -73,6 +74,7 @@
 | [0020-valid-parentheses](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0125-valid-palindrome/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -154,4 +156,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
