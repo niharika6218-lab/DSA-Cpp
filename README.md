@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0997-find-the-town-judge](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0997-find-the-town-judge/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0997-find-the-town-judge](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0997-find-the-town-judge/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +184,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0547-number-of-provinces/) | Medium |
+| [0997-find-the-town-judge](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0997-find-the-town-judge/) | Easy |
 <!---LeetCode Topics End-->
