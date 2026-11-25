@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0041-first-missing-positive](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0054-spiral-matrix](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0054-spiral-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -15,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0054-spiral-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0200-number-of-islands/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +134,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0547-number-of-provinces/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
@@ -139,6 +142,7 @@
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0547-number-of-provinces/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -172,6 +176,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
