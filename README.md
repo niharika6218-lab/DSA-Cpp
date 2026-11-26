@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0041-first-missing-positive](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0041-first-missing-positive/) | Hard |
 | [0054-spiral-matrix](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0054-spiral-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -96,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/niharika6218-lab/DSA-Cpp/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
